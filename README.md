@@ -10,6 +10,7 @@ An application that allows user to share and post their school/university docume
 * Minh Dung Do - minhdungdo.danny@gmail.com
 * Nasim Uddin Ahmed - nasim.ahmed54@gmail.com
 * Rahul Mondal - rahulmondal415@gmail.com
+* Sitashma Rajbhandari - sitashmarajbhandari@gmail.com
 
 ## Goal 
 The goal of this project is to create an application that help students share and manage their study documents. Aiming at making it easier for students when looking for documents related to certain courses.
